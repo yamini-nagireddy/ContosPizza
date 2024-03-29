@@ -8,7 +8,7 @@ Create Product: Add new product to the database. \
 Read All Products: Retrieve a list of all products stored. \
 Read Single Product: Fetch details of a specific product by its ID. \
 Update Product: Modify existing product information. \
-Delete Product: Remove a product. \
+Delete Product: Remove a product. 
 
 
 ## Technologies Used
