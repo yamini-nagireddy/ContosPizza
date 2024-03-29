@@ -14,7 +14,7 @@ Delete Product: Remove a product.
 ## Technologies Used
 ASP.NET Core \
 C# \
-RESTful API principles \
+RESTful API principles 
 
 
 ## Note:
