@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "R9klptG9ACD+AZeLoA5ie51tDUFNZ5OVfZ4jdRGxHa2ug3Lfj+hV/KJF7AlnSole++Rr3GKj+8fKO2TkR9NN+Q==",
+  "success": true,
+  "projectFilePath": "/Users/yamininagireddy/Desktop/ContosoPizza/ContosoPizza.csproj",
+  "expectedPackageFiles": [
+    "/Users/yamininagireddy/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/yamininagireddy/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/yamininagireddy/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/yamininagireddy/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/yamininagireddy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/yamininagireddy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
